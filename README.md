@@ -1,2 +1,2 @@
 # LobbySystem
-RaudGames LobbySystem
+RaidGames LobbySystem
