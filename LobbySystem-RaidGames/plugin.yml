@@ -1,0 +1,18 @@
+name: LobbySystem
+main: LobbySystem\MainClass
+version: 1.1.0-Beta
+api: [3.0.0, 4.0.0]
+author: TheMelone2
+commands:
+  lbinfo:
+    description: "Plugin-Infos Command"
+  team:
+    description: "Zeige Teamlist Command"
+  spawn:
+    description: "Teleportiere dich zum Spawn"
+  lobby:
+    description: "Teleportiere dich zur Lobby"
+  hub:
+    description: "Teleportiere dich zum Hub"
+  fly:
+    description: "Fly aktiviert / deaktiviert"
